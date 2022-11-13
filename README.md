@@ -7,4 +7,7 @@ It was completed as the final assignment for Machine Learning
 Overview:  
 - Estimate output by training a 3-layer NN  
 - Estimate output by training a deep NN (ResNet50V2 used)
-- Compare accuracies
+- Compare accuracies  
+  
+Please see docx for full report
+  
